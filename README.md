@@ -51,7 +51,7 @@ Audita webs, encuentra clientes, redacta y envía campañas y genera contenido �
 
 ## Privacidad
 
-DemencIA es **local-first**: tus datos (prospectos, conversaciones, campañas) viven en tu Mac, en `~/.demencia`. Nada se sube a servidores nuestros.
+DemencIA es **local-first**: tus datos (prospectos, conversaciones, campañas) se guardan en tu Mac y nunca se suben a servidores nuestros.
 
 ## Actualizaciones
 
